@@ -1,4 +1,4 @@
-## Olá, Me chamo João Paulo, programador e apaixonado por tecnologias! :computer::heart:
+## Olá, Me chamo João Paulo, sou programador e apaixonado por tecnologias! :computer::heart:
 
  <div>
   
