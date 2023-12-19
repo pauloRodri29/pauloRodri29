@@ -1,5 +1,11 @@
 ## Olá, tudo bem? Eu sou a João Paulo, programador e apaixonado por tecnologias! :computer::heart:
 
+ <div>
+  <a href="https://github.com/pauloRodri29/pauloRodri29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 ### Linguagens e Ferramentas ⚡ 💬
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -40,4 +46,6 @@
   <a href="https://pin.it/EimzRXM" target="_blank">
     <img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank">
   </a>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
