@@ -4,8 +4,8 @@
   
   ### Status ⚡
   <a href="https://github.com/pauloRodri29/pauloRodri29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloRodri29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloRodri29&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=pauloRodri29&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloRodri29&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 
 ## Ferramentas, Linguagens e Frameworks ⚡ 💬
