@@ -49,5 +49,5 @@
     <img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank">
   </a>
   
-  ![Snake animation](https://github.com/pauloRodri29/pauloRodri29/blob/output/github-contribution-grid-snake.svg)
+
 </div>
