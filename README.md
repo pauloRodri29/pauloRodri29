@@ -15,13 +15,9 @@
 
 <div style="display: inline_block"><br>
 
-<b>Frameworks:</b><br>
 <img align="center" alt="Flutter" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
-<br><br>
-
-<b>Linguagens:</b><br>
 <img align="center" alt="Dart" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 <img align="center" alt="JavaScript" height="40" width="40"
@@ -30,10 +26,6 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<br><br>
-
-<b>Ferramentas:</b><br>
 <img align="center" alt="Figma" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="VS Code" height="40" width="40"
