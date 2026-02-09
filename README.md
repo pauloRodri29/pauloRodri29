@@ -8,6 +8,7 @@
   <a href="https://github.com/pauloRodri29/pauloRodri29">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pauloRodri29&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloRodri29&layout=compact&langs_count=16&theme=transparent"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
    
 </div>
 
@@ -17,6 +18,7 @@
 
 <img align="center" alt="Flutter" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
 <img align="center" alt="Dart" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -29,10 +31,12 @@
   
 <img align="center" alt="Figma" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="VS Code" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="Linux" height="40" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="center" alt="NPM" height="40" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
 
