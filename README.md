@@ -8,7 +8,6 @@
   <a href="https://github.com/pauloRodri29/pauloRodri29">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pauloRodri29&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloRodri29&layout=compact&langs_count=16&theme=transparent"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
    
 </div>
 
@@ -19,6 +18,7 @@
 <img align="center" alt="Flutter" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 
 <img align="center" alt="Dart" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -66,7 +66,7 @@
  	<a href="https://discord.gg/eE3agqN4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href = "https://instagram.com/paulo_vasconcellos29?igshid=ZDdkNTZiNTM">
+  <a href="https://www.instagram.com/paulo_rodrigues.run?igsh=MjZ2dDNnbGJ6ZnQw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
     <a href = "https://www.linkedin.com/in/jo%C3%A3o-paulo-b10b25238">
